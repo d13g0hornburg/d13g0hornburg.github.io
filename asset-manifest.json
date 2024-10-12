@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/myhp/static/css/main.f855e6bc.css",
-    "main.js": "/myhp/static/js/main.0c12e17d.js",
-    "static/js/453.41984d31.chunk.js": "/myhp/static/js/453.41984d31.chunk.js",
-    "static/media/logo.svg": "/myhp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/myhp/static/css/main.f89d372c.css",
+    "main.js": "/myhp/static/js/main.b39bbc9b.js",
+    "static/media/bootstrap-icons.woff?": "/myhp/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/myhp/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "index.html": "/myhp/index.html",
-    "main.f855e6bc.css.map": "/myhp/static/css/main.f855e6bc.css.map",
-    "main.0c12e17d.js.map": "/myhp/static/js/main.0c12e17d.js.map",
-    "453.41984d31.chunk.js.map": "/myhp/static/js/453.41984d31.chunk.js.map"
+    "main.f89d372c.css.map": "/myhp/static/css/main.f89d372c.css.map",
+    "main.b39bbc9b.js.map": "/myhp/static/js/main.b39bbc9b.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.0c12e17d.js"
+    "static/css/main.f89d372c.css",
+    "static/js/main.b39bbc9b.js"
   ]
 }
