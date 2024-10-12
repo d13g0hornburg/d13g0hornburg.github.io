@@ -41,7 +41,7 @@ function Home() {
         <Container>
           <Row>
             <Col md={4}>
-              <img src="dev-diego.jpg" alt="dev-diego.jpg" className="img-fluid rounded-circle" />
+            <img src={`${process.env.PUBLIC_URL}/dev-diego.jpg`} alt="Dev Diego" className="img-fluid rounded-circle" />
             </Col>
             <Col md={8}>
               <h2>Sobre</h2>
