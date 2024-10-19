@@ -67,6 +67,7 @@ function Home() {
                     <Card.Title>{project.title}</Card.Title>
                     <Card.Text>{project.description}</Card.Text>
                     <Card.Link href={project.link} target="_blank">Ver no Github</Card.Link>
+                    <Card.Link href={project.link} target="_blank">Ir para a página</Card.Link>
                   </Card.Body>
                 </Card>
               </Col>
