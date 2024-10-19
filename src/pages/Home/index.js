@@ -45,10 +45,10 @@ function Home() {
             </Col>
             <Col md={8}>
               <h2>Sobre</h2>
-              <p>
+              <p style={{ textAlign: 'justify' }}>
                 Sou graduando na Faculdade de Tecnologia Senac de Jaraguá do Sul, onde curso Análise e Desenvolvimento de Sistemas. Durante minha jornada acadêmica, desde a primeira até a quarta fase, adquiri uma curva de aprendizado significativa em desenvolvimento. Iniciei com introdução à programação, abordando conceitos e práticas de lógica de programação, engenharia de requisitos, modelagem de dados, orientação a objetos, estrutura de dados, SGBD, Git e GitHub para versionamento, desenvolvimento web e, atualmente, desenvolvimento full-stack.
               </p>
-              <p>
+              <p style={{ textAlign: 'justify' }}>
                 As stacks que alcancei durante esse processo incluem Java, Python, JavaScript, Node.js e frameworks como React e Bootstrap, entre outros. Tenho mais de 10 anos de experiência na área de informática, atuando desde suporte até funções administrativas de analista. Atualmente, trabalho como suporte na faculdade onde estudo, SENAC. Determinado e apaixonado por tecnologia, espero contribuir com meu conhecimento tanto para a comunidade quanto para meu trabalho.
               </p>
             </Col>
