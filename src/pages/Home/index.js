@@ -4,32 +4,32 @@ import { Container, Row, Col, Card, Form, Button } from 'react-bootstrap';
 function Home() {
   const projects = [
     {
-      title: 'Dev-Fullstack',
+      title: 'Repositório Dev-Fullstack',
       description: 'Repositório principal da Unidade Curricular Dev-Fullstack',
       link: 'https://github.com/d13g0hornburg/dev-fullstack'
     },
     {
-      title: 'Embed242a3',
+      title: 'Bot para Telegram em Pythom',
       description: 'Repositório contém um bot simples para Telegram, desenvolvido em Python',
       link: 'https://github.com/d13g0hornburg/embed242a3'
     },
     {
-      title: 'ADS3AchadosPerdidos',
-      description: 'Projeto de extensão ADS3 - Aplicação Achados e Perdidos',
+      title: 'Projeto de Extensão ADS',
+      description: 'Projeto de extensão ADS - Aplicação Achados e Perdidos',
       link: 'https://github.com/d13g0hornburg/ADS3AchadosPerdidos'
     },
     {
-      title: 'Embed242A2',
+      title: 'Emuldaor de ROM com Docker',
       description: 'Repositório de um emulador ROM usando container Docker',
       link: 'https://github.com/d13g0hornburg/Embed242A2'
     },
     {
-      title: 'react-ex-pokedex',
+      title: 'Gerador de Pokemon em REACT com API',
       description: 'Consumindo api simples em React de um gerador de pokemon',
       link: 'https://github.com/d13g0hornburg/react-ex-pokedex'
     },
     {
-      title: 'geradorMsg',
+      title: 'Gerador de Mensagens Inspiradoras em REACT com API',
       description: 'Um gerador de mensagens inspiradoras em React',
       link: 'https://github.com/d13g0hornburg/geradorMsg'
     }
