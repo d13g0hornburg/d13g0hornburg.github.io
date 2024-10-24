@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/myhp/static/css/main.f89d372c.css",
-    "main.js": "/myhp/static/js/main.5a3bbe02.js",
-    "static/media/bootstrap-icons.woff?": "/myhp/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
-    "static/media/bootstrap-icons.woff2?": "/myhp/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
-    "index.html": "/myhp/index.html",
-    "main.f89d372c.css.map": "/myhp/static/css/main.f89d372c.css.map",
-    "main.5a3bbe02.js.map": "/myhp/static/js/main.5a3bbe02.js.map"
+    "main.css": "/static/css/main.70a04601.css",
+    "main.js": "/static/js/main.e549af6d.js",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/index.html",
+    "main.70a04601.css.map": "/static/css/main.70a04601.css.map",
+    "main.e549af6d.js.map": "/static/js/main.e549af6d.js.map"
   },
   "entrypoints": [
-    "static/css/main.f89d372c.css",
-    "static/js/main.5a3bbe02.js"
+    "static/css/main.70a04601.css",
+    "static/js/main.e549af6d.js"
   ]
 }
