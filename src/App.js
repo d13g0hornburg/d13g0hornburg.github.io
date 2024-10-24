@@ -10,7 +10,7 @@ function App() {
     <Router>
       <Header />
       <Routes>
-        <Route path="/myhp" element={<Home/>} />
+        <Route path="/" element={<Home/>} />
       </Routes>
       <Footer />
     </Router>

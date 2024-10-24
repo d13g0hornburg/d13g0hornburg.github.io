@@ -11,7 +11,7 @@ function RoutesApp(){
         <BrowserRouter>
             <Header/>
             <Routes>
-                <Route path="/myhp" element={<Home/>}/> 
+                <Route path="/" element={<Home/>}/> 
                 <Route path="*" element={<Erro/>}/> 
             </Routes>
             <Footer/>
